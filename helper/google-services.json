@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919018038056",
+    "project_id": "home-and-homies",
+    "storage_bucket": "home-and-homies.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919018038056:android:5a7233d550af4ecc46e61d",
+        "android_client_info": {
+          "package_name": "com.homies.apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAfJ59BIQZfnSqhPvjKLlco9S6sgMiNv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
